@@ -63,3 +63,5 @@ Este proyecto está orientado a:
 - Evaluación de políticas de rebalanceo
 - Investigación aplicada en gestión de activos
 
+Para más detalles, utilizar Instrucciones_Proyecto_Portfolio
+
